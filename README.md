@@ -66,8 +66,3 @@ This project was developed as part of **SparkFest 2026**, the flagship hackathon
 * **Presentation Deck:** *URL (optional)*
 * **Project Document:** *URL (optional)*
 
----
-
-## License
-
-Specify the license for your project (e.g., MIT License) or indicate if no license is provided.
